@@ -1,0 +1,63 @@
+<rss>
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:anchor="https://anchor.fm/xmlns"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:psc="http://podlove.org/simple-chapters" version="2.0">
+	<channel>
+		<title>
+			<![CDATA[ Power Talk ]]>
+		</title>
+		<description>
+			<![CDATA[ Power Talk ist der Podcast von Power Islam. Religionspädagogin Misbah Arshad und Imam Mustafa Cimşit sprechen über Glauben, Gesellschaft, Geschichte, Sexualität und Empowerment aus muslimischer Perspektive – kritisch, spirituell und lebensnah. Persönlich, reflektiert und mit Humor. Für alle, die informiert, reflektiert und empowert bleiben wollen. Schalt dich ein bei Power Islam ]]>
+		</description>
+		<link>https://www.power-islam.com</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Mon, 12 Jan 2026 09:46:21 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/10b75d5bc/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author>
+			<![CDATA[ Power Islam ]]>
+		</author>
+		<copyright>
+			<![CDATA[ Power Islam ]]>
+		</copyright>
+		<language>
+			<![CDATA[ de ]]>
+		</language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Power Islam</itunes:author>
+		<itunes:summary>Power Talk ist der Podcast von Power Islam. Religionspädagogin Misbah Arshad und Imam Mustafa Cimşit sprechen über Glauben, Gesellschaft, Geschichte, Sexualität und Empowerment aus muslimischer Perspektive – kritisch, spirituell und lebensnah. Persönlich, reflektiert und mit Humor. Für alle, die informiert, reflektiert und empowert bleiben wollen. Schalt dich ein bei Power Islam</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Power Islam</itunes:name>
+			<itunes:email/>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Education"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44772391/44772391-1762816023086-0db6f7a77846.jpg"/>
+		<item>
+			<title>
+				<![CDATA[ Wir sagen Bismillah! ]]>
+			</title>
+			<description>
+				<![CDATA[ <p>Willkommen bei Power Islam – informiert. reflektiert. empowert.😎 In unserem Einführungsvideo stellen wir euch vor, wer wir sind, was uns antreibt und warum wir diesen Kanal gestartet haben.🎙️ Wir - Misbah Arshad und Imam Mustafa Cimşit - nehmen euch mit auf eine Reise durch islamische Themen und muslimisches Leben – ehrlich, verständlich und empowernd.📣Wir sprechen über Religion, Gesellschaft, Politik, Pädagogik, Liebe und Sexualität und zeigen, wie der Islam in all diesen Bereichen Orientierung geben kann.🎯 Unsere Ziele- Bildung &amp; Aufklärung- Empowerment &amp; Community-Stärkung- Prävention gegen antimuslimischen Rassismus &amp; religiösen Extremismus🤓 Unsere MotivationWir erzählen von unseren persönlichen Erfahrungen, unserer Herkunft und unserem beruflichen Weg und warum wir als Frau und Mann gemeinsam diesen Kanal gestalten.🔎 Näheres zu uns erfährt ihr auch hier👉🏼 SWR Doku | Muslimische Friedenskämpfer - Mit Prävention gegen den Terror | https://www.youtube.com/watch?v=IerPSJxOXmk&amp;t=7s👉🏼 Landesschau Rheinland-Pfalz | Bildungsprojekt für junge Muslime: Kompass - Muslimische Jugendbildung | https://www.youtube.com/watch?v=kOmaLepMvuQ👉🏼 phonenix | Der Imam und die Knackis | https://www.youtube.com/watch?v=nWL_ViMMfjQ&amp;t=27s💡 Was ist Power Islam?Ein Social-Media-Auftritt mit Formaten wie Podcasts, der Power Imam Challenge, Empowerment-Songs und „Unerzählten Geschichten“. Unsere Zielgruppe sind muslimische Jugendliche und junge Erwachsene – aber auch alle, die mehr über den Islam &amp; Musliem erfahren möchten.⚙️ Macht mit!Abonniert unseren Kanal, hört unseren Podcast, stellt uns eure Fragen – und werdet Teil unserer Community!👉 https://power-islam.com – Hier findet ihr unseren Linktree zu allen Social-Media-Kanälen.🕊️ Zum Abschluss unsere friedliche Grüße an alle: Salam alaikum – Allah’a ısmarladık &amp; Khuda hafiz!😉 Bleibt informiert, reflektiert und empowert &amp; schaltet euch ein bei Power Islam!</p> ]]>
+			</description>
+			<link>https://podcasters.spotify.com/pod/show/power-islam/episodes/Wir-sagen-Bismillah-e3anki5</link>
+			<guid isPermaLink="false">1435de95-aaaa-48fc-9c46-65de38d4850e</guid>
+			<dc:creator>
+				<![CDATA[ Power Islam ]]>
+			</dc:creator>
+			<pubDate>Mon, 10 Nov 2025 22:54:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10b75d5bc/podcast/play/110923781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-9%2F412138286-44100-2-79a81a052d407.mp3" length="10351176" type="audio/mpeg"/>
+			<itunes:summary>
+				<p>Willkommen bei Power Islam – informiert. reflektiert. empowert.😎 In unserem Einführungsvideo stellen wir euch vor, wer wir sind, was uns antreibt und warum wir diesen Kanal gestartet haben.🎙️ Wir - Misbah Arshad und Imam Mustafa Cimşit - nehmen euch mit auf eine Reise durch islamische Themen und muslimisches Leben – ehrlich, verständlich und empowernd.📣Wir sprechen über Religion, Gesellschaft, Politik, Pädagogik, Liebe und Sexualität und zeigen, wie der Islam in all diesen Bereichen Orientierung geben kann.🎯 Unsere Ziele- Bildung &amp; Aufklärung- Empowerment &amp; Community-Stärkung- Prävention gegen antimuslimischen Rassismus &amp; religiösen Extremismus🤓 Unsere MotivationWir erzählen von unseren persönlichen Erfahrungen, unserer Herkunft und unserem beruflichen Weg und warum wir als Frau und Mann gemeinsam diesen Kanal gestalten.🔎 Näheres zu uns erfährt ihr auch hier👉🏼 SWR Doku | Muslimische Friedenskämpfer - Mit Prävention gegen den Terror | https://www.youtube.com/watch?v=IerPSJxOXmk&amp;t=7s👉🏼 Landesschau Rheinland-Pfalz | Bildungsprojekt für junge Muslime: Kompass - Muslimische Jugendbildung | https://www.youtube.com/watch?v=kOmaLepMvuQ👉🏼 phonenix | Der Imam und die Knackis | https://www.youtube.com/watch?v=nWL_ViMMfjQ&amp;t=27s💡 Was ist Power Islam?Ein Social-Media-Auftritt mit Formaten wie Podcasts, der Power Imam Challenge, Empowerment-Songs und „Unerzählten Geschichten“. Unsere Zielgruppe sind muslimische Jugendliche und junge Erwachsene – aber auch alle, die mehr über den Islam &amp; Musliem erfahren möchten.⚙️ Macht mit!Abonniert unseren Kanal, hört unseren Podcast, stellt uns eure Fragen – und werdet Teil unserer Community!👉 https://power-islam.com – Hier findet ihr unseren Linktree zu allen Social-Media-Kanälen.🕊️ Zum Abschluss unsere friedliche Grüße an alle: Salam alaikum – Allah’a ısmarladık &amp; Khuda hafiz!😉 Bleibt informiert, reflektiert und empowert &amp; schaltet euch ein bei Power Islam!</p>
+			</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44772391/44772391-1762712770178-eeebe5f333cff.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
